@@ -1,0 +1,50 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    /* background-image: url(back2.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    background: radial-gradient(circle,rgba(255, 255, 255, 0.772) 14%, rgb(199, 161, 161) 60%, rgba(255,40,0,1) 93%);
+
+}
+
+
+#p1{
+    /* font-family: 'Courier New', Courier, monospace; */
+    background-color: rgba(0, 255, 255, 0.575);
+    /* background: rgb(36,9,0); */
+/* background: radial-gradient(circle,rgba(36,9,0,0.7721463585434174) 14%, rgba(121,9,9,1) 60%, rgba(255,40,0,1) 93%); */
+    color: blue;
+    font-size: 30px;
+    border-style: dotted;
+    width: 500px;
+    height: 300px;
+    margin: 50px;
+    padding: 50px;
+}
+
+#p2{
+    background-color: rgba(255, 238, 0, 0.666);
+    color: blue;
+    font-size: 30px;
+    border-style:double;
+    width: 500px;
+    height: 300px;
+    margin: 70px 50px 40px 50px;
+    padding: 40px;
+}
+
+#p3{
+    background-color:rgb(43, 0, 255);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    border-style:outset;
+    width: 500px;
+    height: 320px;
+    margin: 50px 50px 40px 50px;
+    padding: 40px;
+    border-width: 10px;
+}
