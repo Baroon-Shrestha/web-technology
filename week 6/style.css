@@ -1,0 +1,42 @@
+*{
+    box-sizing: 0;
+    padding:0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #fcba03;
+    text-align: center;
+}
+.boxes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    text-align: center;
+    font-weight: 700;
+    font-weight:bolder;
+    font-size: 53.33px;
+    padding: 50px;
+}
+.boxes div img{
+   
+    height: 350px;
+} 
+.content{
+    font-weight: 100;
+    font-size: 20px;
+}
+p{
+    padding-top: 15px;
+}
+h2{
+    padding-top: 10px;
+    font-weight: 300px;
+}
+/* .content .one{
+    width: 25px;
+    height: 10px;
+} */
